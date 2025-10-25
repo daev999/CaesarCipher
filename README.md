@@ -24,3 +24,13 @@ Here's the encoded result: mjqqt btwqi
 
 ## About
 This project was written as part of my Python learning journey — practicing loops, functions, and text manipulation.
+
+---
+
+### 👨‍💻 Author
+**David Ekeocha**  
+GitHub: [@daev999](https://github.com/daev999)
+
+### 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
